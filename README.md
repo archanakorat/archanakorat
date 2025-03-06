@@ -95,6 +95,6 @@ I am a **Senior Full-Stack Developer** with **7+ years of experience** specializ
 
 ## 📬 Contact Information
 📧 **Email:** archana.korat@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/archanakorat/ 
+🔗 **LinkedIn:** https://www.linkedin.com/in/archanakorat/
 🐙 **GitHub:** 
 🌐 **Portfolio Website:**  
